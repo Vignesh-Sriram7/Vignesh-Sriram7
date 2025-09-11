@@ -20,7 +20,7 @@
 - **Computer vision + IoT** projects  
 
 ## 🤔 I’m looking for help with
-- Real-world deployment strategies for **embedded CV systems**  
+- Real-world deployment strategies for **Embedded Microcontrollers**  
 - Best practices in **low-power embedded optimization**  
 
 ## 💬 Ask me about
