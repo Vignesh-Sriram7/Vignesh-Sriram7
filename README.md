@@ -58,7 +58,7 @@ Gesture-based control system using OpenCV + MediaPipe.
 Bare-metal cooperative scheduler for deterministic embedded applications.  
 *Tech:* STM32F3, C, FreeRTOS  
 
-### 🔐 [CAN Communication Authenticator](https://github.com/Vignesh-Sriram7/STM32F3)
+### 🔐 [CAN Communication Authenticator](https://github.com/Vignesh-Sriram7/CAN_Authentication)
 Authenticated CAN messages using **SHA-256** for secure embedded communication.  
 *Tech:* STM32, C, HAL drivers  
 
