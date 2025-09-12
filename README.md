@@ -50,7 +50,7 @@ Gesture-based control system using OpenCV + MediaPipe.
 Simulates weather station data using a **cooperative task scheduler** and transmits JSON-formatted data via UART.  
 *Tech:* STM32, C, HAL drivers, UART
 
-### 🔐 [CAN Communication Authenticator](https://github.com/Vignesh-Sriram7/CAN_Authentication)
+### 🔐 [CAN Communication Authenticator]()
 Authenticated CAN messages using **SHA-256** for secure embedded communication.  
 *Tech:* STM32, C, HAL drivers  
 
