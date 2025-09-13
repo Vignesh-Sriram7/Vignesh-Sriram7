@@ -52,7 +52,6 @@ Simulates weather station data using a **cooperative task scheduler** and transm
 
 ### 🔐 [Message Authenticator]()
 Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.
-
 *Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
 
 ---
