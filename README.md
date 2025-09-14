@@ -50,7 +50,7 @@ Gesture-based control system using OpenCV + MediaPipe.
 Simulates weather station data using a **cooperative task scheduler** and transmits JSON-formatted data via UART.  
 *Tech:* STM32, C, HAL drivers, UART
 
-### 🔐 [Message Authenticator]()
+### 🔐 [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
 Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.
 *Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
 
