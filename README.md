@@ -2,7 +2,7 @@
 
 📍 Saarbrücken, Germany  
 🎓 MSc Embedded Systems @ Universität des Saarlandes  
-🔧 Embedded Software | Microcontrollers | Computer Vision | Industry 4.0 | EdgeAI
+🔧 Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 
 ---
 
@@ -13,7 +13,7 @@
 ## 🌱 I’m currently learning
 - Rust for embedded systems
 - Yocto Project  
-- Advanced FPGA design & optimization  
+- Zephyr  
 
 ## 👯 I’m looking to collaborate on
 - Open-source **embedded frameworks**  
