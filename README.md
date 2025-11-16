@@ -10,9 +10,7 @@
 - Optimization of small part containers for ergonomic placement in industrial assembly lines (Research Assistant @ ZeMA GmbH)  
 - Embedded pipelines using STM32 + ESP32 
 
-## 🌱 I’m currently learning
-- Rust for embedded systems
-- Yocto Project  
+## 🌱 I’m currently learning 
 - Zephyr  
 
 ## 👯 I’m looking to collaborate on
