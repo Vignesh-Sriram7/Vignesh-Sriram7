@@ -8,7 +8,7 @@
 
 ## 🔭 I’m currently working on
 - Optimization of small part containers for ergonomic placement in industrial assembly lines (Research Assistant @ ZeMA GmbH)  
-- Embedded pipelines using STM32 + ESP32 
+- Embedded Applications using ZEPHYR 
 
 ## 🌱 I’m currently learning 
 - Zephyr  
