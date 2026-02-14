@@ -49,6 +49,7 @@ ESP8266 + NFC + Slack API to help elderly track and manage medication.
 
 ### [WiFi Radar System](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Wifi_Radar)
 ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displays distance data on a live webpage.
+
 *Tech:* ESP8266, C++, Servo Motor, HC-SR04 Ultrasonic Sensor, Web Server, HTML/CSS/JavaScript
 
 ###  [Virtual Hand Tracking](https://github.com/Vignesh-Sriram7/Virtual_Hand_Tracking)
