@@ -8,9 +8,9 @@
 
 ##  I’m currently working on
 ### Industrial Ergonomics
- *Optimizing small-part container placement for assembly lines using data-driven modeling (Research Assistant @ ZeMA GmbH).
+- Optimizing small-part container placement for assembly lines using data-driven modeling (Research Assistant @ ZeMA GmbH).
 ### Networked Embedded Systems 
- *Building low-latency communication stacks on ESP32 using Zephyr.
+- Building low-latency communication stacks on ESP32 using Zephyr.
 
 ##  I’m currently learning 
 - Zephyr  
