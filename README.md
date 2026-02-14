@@ -29,7 +29,7 @@
 - Zephyr on ESP32
 
 ##  How to reach me
--  [vigneshs2603@gmail.com](mailto:vigneshs2603@gmail.com)  
+-  [Gmail](mailto:vigneshs2603@gmail.com)  
 -  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
 
 ##  Fun fact
