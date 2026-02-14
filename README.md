@@ -48,11 +48,11 @@ ESP8266 + NFC + Slack API to help elderly track and manage medication.
 *Tech:* ESP8266, C++, Web APIs  
 
 ### [WiFi Radar System](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Wifi_Radar)
-ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displays distance data on a live webpage.
+ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displays distance data on a live webpage.        
 *Tech:* ESP8266, C++, Servo Motor, HC-SR04 Ultrasonic Sensor, Web Server, HTML/CSS/JavaScript
 
 ###  [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
-Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.
+Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.          
 *Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
 
 ---
