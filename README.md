@@ -53,6 +53,12 @@ ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displ
 
 <p align="center"><img src="Screenshot 2026-02-15 223704.png" width="300"></p>
 
+### [BLE Smart Lock](https://github.com/YOUR_USERNAME/YOUR_REPO_LINK)
+ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and persistent bonding.  
+*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), PWM, NVS (Flash Storage), GATT, SMP
+
+<p align="center"><img src="Screenshot_20260222_233349_nRF Connect.jpg" width="200"></p>
+
 ###  [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
 Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.          
 *Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
