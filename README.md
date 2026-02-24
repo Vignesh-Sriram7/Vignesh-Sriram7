@@ -53,7 +53,7 @@ ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displ
 ESP8266 + NFC + Slack API to help elderly track and manage medication.  
 *Tech:* ESP8266, C++, Web APIs 
 
-### [BLE Smart Lock](https://github.com/YOUR_USERNAME/YOUR_REPO_LINK)
+### [BLE Smart Lock](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Smart_Access_Control)
 ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and persistent bonding.  
 *Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), PWM, NVS (Flash Storage), GATT, SMP
 
