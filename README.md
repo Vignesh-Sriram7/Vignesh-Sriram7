@@ -45,13 +45,13 @@ Simulates weather station data using a **cooperative task scheduler** and transm
 
 ### [WiFi Radar System](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Wifi_Radar)
 ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displays distance data on a live webpage.        
-*Tech:* ESP8266, C++, Servo Motor, HC-SR04 Ultrasonic Sensor, Web Server, HTML/CSS/JavaScript
+*Tech:* ESP32, C, Zephyr RTOS, Servo Motor, HC-SR04 Ultrasonic Sensor, Web Server, HTML/CSS/JavaScript
 
 <p align="center"><img src="Screenshot 2026-02-15 223704.png" width="300"></p>
 
 ###  [IoT Pill Dispenser](https://github.com/Vignesh-Sriram7/Medicine_Dispenser)
 ESP8266 + NFC + Slack API to help elderly track and manage medication.  
-*Tech:* ESP8266, C++, Web APIs 
+*Tech:* ESP8266, C, Web APIs 
 
 ### [BLE Smart Lock](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Smart_Access_Control)
 ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and persistent bonding.  
