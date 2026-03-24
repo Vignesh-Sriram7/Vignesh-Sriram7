@@ -1,14 +1,13 @@
-# I'm Vignesh Sriram  
-Embedded Software Engineer
+# Vignesh Sriram | Embedded Software Developer 
 MSc Embedded Systems @ Universität des Saarlandes  
 Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 
 ---
 
 ##  I’m currently working on
-### Industrial Ergonomics
+### 🏭 Industrial Ergonomics
 - Optimizing small-part container placement for assembly lines using data-driven modeling (Research Assistant @ ZeMA GmbH).
-### RTOS-Driven Development
+### 🧠 RTOS-Driven Development
 - Architecting robust, low-latency firmware on ESP32 and STM32 using Zephyr RTOS and FreeRTOS.
 
 ##  I’m looking to collaborate on
@@ -24,7 +23,7 @@ Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 - ESP32 firmware design 
 - Zephyr on ESP32
 
-##  How to reach me
+##  📫 How to reach me
 -  [Gmail](mailto:vigneshs2603@gmail.com)  
 -  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
 
