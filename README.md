@@ -1,19 +1,15 @@
 # I'm Vignesh Sriram  
-
-📍 Saarbrücken, Germany  
-🎓 MSc Embedded Systems @ Universität des Saarlandes  
-🔧 Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
+Embedded Software Engineer
+MSc Embedded Systems @ Universität des Saarlandes  
+Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 
 ---
 
 ##  I’m currently working on
 ### Industrial Ergonomics
 - Optimizing small-part container placement for assembly lines using data-driven modeling (Research Assistant @ ZeMA GmbH).
-### Networked Embedded Systems 
-- Building low-latency communication stacks on ESP32 using Zephyr.
-
-##  I’m currently learning 
-- Zephyr  
+### RTOS-Driven Development
+- Architecting robust, low-latency firmware on ESP32 and STM32 using Zephyr RTOS and FreeRTOS.
 
 ##  I’m looking to collaborate on
 - Open-source **embedded frameworks**  
@@ -34,6 +30,7 @@
 
 ##  Fun fact
 I love building prototypes that start as quick hacks and end up turning into **complete systems** 
+It is something special to see an application that you coded serving the actual puprose which you simulated in your head!!
 
 ---
 
