@@ -55,6 +55,10 @@ ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and 
 
 <p align="center"><img src="Screenshot 2026-02-24 132501.png" width="800"></p>
 
+###  [BLE Beacon](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/BLE_Beacon)
+Implements a BLE advertising beacon that broadcasts periodic packets for proximity detection and device discovery.  
+*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), Advertising, Embedded C
+
 ###  [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
 Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.          
 *Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
