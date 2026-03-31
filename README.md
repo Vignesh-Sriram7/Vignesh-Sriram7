@@ -6,23 +6,10 @@ Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 
 ##  I’m currently working on
 ### 🏭 Industrial Ergonomics
-- Optimizing small-part container placement for assembly lines using data-driven modeling (Research Assistant @ ZeMA GmbH).
+- Smart Cognitive Assistance Systems for Assembly Workstation (Research Assistant @ ZeMA GmbH).
 ### 🧠 RTOS-Driven Development
 - Architecting robust, low-latency firmware on ESP32 and STM32 using Zephyr RTOS and FreeRTOS.
-
-##  I’m looking to collaborate on
-- Open-source **embedded frameworks**  
-- **Computer vision + IoT** projects  
-
-##  I’m looking for help with
-- Real-world deployment strategies for **Embedded Microcontrollers**  
-- Best practices in **low-power embedded optimization**  
-
-## Ask me about
-- STM32 firmware design (bare-metal & FreeRTOS)  
-- ESP32 firmware design 
-- Zephyr on ESP32
-
+- Developing CI/CD pipelines for Zephyr based applications
 ##  📫 How to reach me
 -  [Gmail](mailto:vigneshs2603@gmail.com)  
 -  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
@@ -57,7 +44,7 @@ ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and 
 
 ###  [BLE Beacon](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/BLE_Beacon)
 Implements a BLE advertising beacon that broadcasts periodic packets for proximity detection and device discovery.  
-*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), Advertising, Embedded C
+*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), Advertising, Embedded C, RSSI Smoothing, WDT, IAS
 
 ###  [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
 Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.          
