@@ -15,8 +15,8 @@ Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 -  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
 
 ##  Fun fact
-I love building prototypes that start as quick hacks and end up turning into **complete systems** 
-It is something special to see an application that you coded serving the actual puprose which you simulated in your head!!
+- I love building prototypes that start as quick hacks and end up turning into **complete systems** 
+- It is something special to see an application that you coded serving the actual puprose which you simulated in your head!!
 
 ---
 
