@@ -4,13 +4,19 @@ Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
 
 ---
 
-##  I’m currently working on
-### 🏭 Industrial Ergonomics
-- Smart Cognitive Assistance Systems for Assembly Workstation (Research Assistant @ ZeMA GmbH).
-### 🧠 RTOS-Driven Development
-- Architecting robust, low-latency firmware on ESP32 and STM32 using Zephyr RTOS and FreeRTOS.
-- Developing CI/CD pipelines for Zephyr based applications
-##  📫 How to reach me
+## Current Work
+
+### Industrial Ergonomics and Cognitive Assistance  
+**Research Assistant, ZeMA GmbH**
+- Developing cognitive assistance systems for industrial assembly workstations  
+- Improving human-machine interaction and operator efficiency  
+
+### RTOS-Based Embedded Systems
+- Designing low-latency firmware on ESP32 and STM32  
+- Building scalable systems using Zephyr RTOS and FreeRTOS  
+- Developing CI/CD pipelines for embedded applications
+  
+##  How to reach me
 -  [Gmail](mailto:vigneshs2603@gmail.com)  
 -  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
 
@@ -51,6 +57,7 @@ Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.
 ###  [IoT Pill Dispenser](https://github.com/Vignesh-Sriram7/Medicine_Dispenser)
 ESP8266 + NFC + Slack API to help elderly track and manage medication.  
 *Tech:* ESP8266, C, Web APIs 
+
 
 ---
 
