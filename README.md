@@ -46,6 +46,10 @@ Implements a BLE advertising beacon that broadcasts periodic packets for proximi
 
 <p align="center"><img src="Screenshot 2026-04-08 223643.png" width="800"></p>
 
+###  [STM32 Secure Telemetry Logger](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/STM32_Secure_Telemetry_Logger)
+Implements a cryptographically secured data logging system featuring anti-tamper verification and flash wear management.
+*Tech:* STM32, Zephyr RTOS, Non-Volatile Storage (NVS), Mbed TLS (HMAC-SHA256), I2C, UART 
+
 ###  [STM32 Weather Station Simulator](https://github.com/Vignesh-Sriram7/Hackathon_2025/tree/main/weather_station)
 Simulates weather station data using a **cooperative task scheduler** and transmits JSON-formatted data via UART.  
 *Tech:* STM32, C, HAL drivers, UART 
