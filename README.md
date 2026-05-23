@@ -73,4 +73,4 @@ ESP8266 + NFC + Slack API — medication tracking and dispensing system for elde
 
 ## Contact
 
-[vigneshs2603@gmail.com](mailto:vigneshs2603@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/vignesh-s2603) &nbsp;|&nbsp; [Medium](https://medium.com/@vigneshsriram2603)
+[Gmail](mailto:vigneshs2603@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/vignesh-s2603) &nbsp;|&nbsp; [Medium](https://medium.com/@vigneshsriram2603)
