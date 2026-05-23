@@ -1,69 +1,87 @@
-# Vignesh Sriram | Embedded Software Developer 
+# Vignesh Sriram — Embedded Software Developer
+
 MSc Embedded Systems @ Universität des Saarlandes  
-Embedded Software | Microcontrollers | Zephyr | Industry 4.0 | EdgeAI
+Building real-time embedded systems in C on STM32 and ESP32 — Zephyr RTOS, BLE, and CI/CD.
 
 ---
 
-## Current Work
+## What I work on
 
-### Industrial Ergonomics and Cognitive Assistance  
-**Research Assistant, ZeMA GmbH**
-- Developing cognitive assistance systems for industrial assembly workstations  
-- Improving human-machine interaction and operator efficiency  
+**Research Assistant @ ZeMA GmbH** *(Mar 2024 – Present)*
 
-### RTOS-Based Embedded Systems
-- Designing low-latency firmware on ESP32 and STM32  
-- Building scalable systems using Zephyr RTOS and FreeRTOS  
-- Developing CI/CD pipelines for embedded applications
-  
-##  How to reach me
--  [Gmail](mailto:vigneshs2603@gmail.com)  
--  [LinkedIn](https://linkedin.com/in/vignesh-s2603)  
+- TCP/IP control of a laser projection system handling real-time positional and process data across system components
+- Low-level driver development for sensors and actuators over UART, SPI, I²C; system validation under real-time conditions
+- Multithreaded vision pipelines and stereo camera calibration tools for industrial assembly workstations
+- Interface layer integrating a .NET/C# API into a Python application for torque tool data acquisition and validation
 
-##  Fun fact
-- I love building prototypes that start as quick hacks and end up turning into **complete systems** 
-- It is something special to see an application that you coded serving the actual puprose which you simulated in your head!!
+**M.Sc. Thesis** — Gripping area optimisation with in-process hand detection; real-time camera-based system for industrial assembly with CLAHE preprocessing under laser projection interference.
 
 ---
 
-##  Featured Projects
+## Skills
+
+| Area | Details |
+|---|---|
+| **Languages** | C (primary), Python, C++ |
+| **Microcontrollers** | STM32 (ARM Cortex-M), ESP32 |
+| **Interfaces** | UART, SPI, I²C, ADC, PWM, GPIO, TCP/IP |
+| **RTOS** | Zephyr RTOS (Devicetree, Kconfig, drivers), FreeRTOS |
+| **Wireless** | BLE — GATT service design, SMP pairing, NVS bonding |
+| **Security** | mbedTLS, HMAC-SHA-256, NVS secure storage, flash partitioning |
+| **Toolchain** | Git, GitHub Actions, CMake, GCC, ST-Link, OpenOCD |
+
+---
+
+## Featured Projects
 
 ### [WiFi Radar System](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Wifi_Radar)
-ESP32 + Servo + HC-SR04 a real-time WiFi radar that scans surroundings and displays distance data on a live webpage.        
-*Tech:* ESP32, C, Zephyr RTOS, Servo Motor, HC-SR04 Ultrasonic Sensor, Web Server, HTML/CSS/JavaScript
+Real-time radar on ESP32 — HC-SR04 ultrasonic sensor + servo sweep, distance data streamed live to a web interface over WiFi.  
+`ESP32` `C` `Zephyr RTOS` `HC-SR04` `Servo` `Web Server` `HTML/CSS/JS`
 
 <p align="center"><img src="Screenshot 2026-02-15 223704.png" width="300"></p>
 
+---
+
 ### [BLE Smart Lock](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/Smart_Access_Control)
-ESP32 + Servo secure Bluetooth-controlled smart lock with encrypted pairing and persistent bonding.  
-*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), PWM, NVS (Flash Storage), GATT, SMP
+Bluetooth-controlled locking system with custom GATT service, SMP encrypted pairing, persistent NVS bonding, and servo actuation via PWM. Accessible from a paired mobile device or browser-based BLE-to-HTTP bridge — no native app required.  
+`ESP32` `Zephyr RTOS` `BLE` `GATT` `SMP` `NVS` `PWM`
 
 <p align="center"><img src="Screenshot 2026-02-24 132501.png" width="800"></p>
 
-###  [BLE Beacon](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/BLE_Beacon)
-Implements a BLE advertising beacon that broadcasts periodic packets for proximity detection and device discovery.  
-*Tech:* ESP32, Zephyr RTOS, Bluetooth Low Energy (BLE), Advertising, Embedded C, RSSI Smoothing- Kalman Filter, WDT, IAS
+---
+
+### [BLE Beacon + CI Pipeline](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/BLE_Beacon)
+Periodic BLE beacon with Kalman filter RSSI smoothing for stable proximity estimation from noisy raw RSSI. Authenticated IAS alerts via Zephyr GATT stack. Full GitHub Actions CI pipeline — automated build, static analysis, reproducible flashable binary artifact. [Documented end-to-end on Medium.](https://medium.com/@vigneshsriram2603/esp32-devops-ci-cd-with-zephyr-rtos-36dd35c2b3e6)  
+`ESP32` `Zephyr RTOS` `BLE` `Kalman Filter` `GitHub Actions` `CI/CD`
 
 <p align="center"><img src="Screenshot 2026-04-08 223643.png" width="800"></p>
 
-###  [STM32 Secure Telemetry Logger](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/STM32_Secure_Telemetry_Logger)
-Implements a cryptographically secured data logging system featuring anti-tamper verification and flash wear management.
-*Tech:* STM32, Zephyr RTOS, Non-Volatile Storage (NVS), Mbed TLS (HMAC-SHA256), I2C, UART 
+---
 
-###  [STM32 Weather Station Simulator](https://github.com/Vignesh-Sriram7/Hackathon_2025/tree/main/weather_station)
-Simulates weather station data using a **cooperative task scheduler** and transmits JSON-formatted data via UART.  
-*Tech:* STM32, C, HAL drivers, UART 
-
-###  [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
-Authenticates messages sent from an ESP32 to an STM32F303RE over UART3.          
-*Tech:* STM32, C, HAL drivers, ESP32 ESPIDF  
-
-###  [IoT Pill Dispenser](https://github.com/Vignesh-Sriram7/Medicine_Dispenser)
-ESP8266 + NFC + Slack API to help elderly track and manage medication.  
-*Tech:* ESP8266, C, Web APIs 
-
+### [STM32 Secure Telemetry Logger](https://github.com/Vignesh-Sriram7/Zephyr/tree/main/STM32_Secure_Telemetry_Logger)
+Sensor readings acquired, encrypted with mbedTLS before leaving RAM, and stored in a dedicated flash partition alongside random sequence IDs for tamper detection. NVS handles persistent metadata across power cycles. Custom partition table cleanly separates telemetry from firmware.  
+`STM32` `Zephyr RTOS` `mbedTLS` `HMAC-SHA-256` `NVS` `I²C` `UART`
 
 ---
 
+### [STM32 Weather Station](https://github.com/Vignesh-Sriram7/Hackathon_2025/tree/main/weather_station)
+Cooperative task scheduler driving simulated multi-sensor weather data, JSON-formatted and transmitted over UART. Built at a Smart Agricultural Systems hackathon.  
+`STM32` `C` `HAL` `UART` `Cooperative Scheduling`
 
+---
 
+### [Message Authenticator](https://github.com/Vignesh-Sriram7/Message-Authenticator)
+HMAC-SHA-256 authentication on bare-metal ARM Cortex-M — ESP32 sends, STM32F303RE authenticates over UART3.  
+`STM32` `ESP32` `C` `HMAC-SHA-256` `HAL` `ESP-IDF`
+
+---
+
+### [IoT Pill Dispenser](https://github.com/Vignesh-Sriram7/Medicine_Dispenser)
+ESP8266 + NFC + Slack API — medication tracking and dispensing system for elderly users.  
+`ESP8266` `C` `NFC` `Slack API`
+
+---
+
+## Contact
+
+[vigneshs2603@gmail.com](mailto:vigneshs2603@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/vignesh-s2603) &nbsp;|&nbsp; [Medium](https://medium.com/@vigneshsriram2603)
