@@ -5,31 +5,20 @@ Building real-time embedded systems in C on STM32 and ESP32 — Zephyr RTOS, BLE
 
 ---
 
-## What I work on
-
-**Research Assistant @ ZeMA GmbH** *(Mar 2024 – Present)*
-
-- TCP/IP control of a laser projection system handling real-time positional and process data across system components
-- Low-level driver development for sensors and actuators over UART, SPI, I²C; system validation under real-time conditions
-- Multithreaded vision pipelines and stereo camera calibration tools for industrial assembly workstations
-- Interface layer integrating a .NET/C# API into a Python application for torque tool data acquisition and validation
-
-**M.Sc. Thesis** — Gripping area optimisation with in-process hand detection; real-time camera-based system for industrial assembly with CLAHE preprocessing under laser projection interference.
-
+## About
+ 
+I am an embedded software developer who enjoys working close to the hardware: writing firmware that has to be correct, efficient, and reliable under real operating conditions. I work on industrial systems at ZeMA GmbH alongside my Master's degree, and I build personal projects to go deeper into areas I find interesting: security primitives, wireless protocols, and CI/CD for embedded.
+ 
+I like starting from a problem and building until it works, not just on the bench, but in the way it was meant to be used.
+ 
 ---
-
-## Skills
-
-| Area | Details |
-|---|---|
-| **Languages** | C (primary), Python, C++ |
-| **Microcontrollers** | STM32 (ARM Cortex-M), ESP32 |
-| **Interfaces** | UART, SPI, I²C, ADC, PWM, GPIO, TCP/IP |
-| **RTOS** | Zephyr RTOS (Devicetree, Kconfig, drivers), FreeRTOS |
-| **Wireless** | BLE — GATT service design, SMP pairing, NVS bonding |
-| **Security** | mbedTLS, HMAC-SHA-256, NVS secure storage, flash partitioning |
-| **Toolchain** | Git, GitHub Actions, CMake, GCC, ST-Link, OpenOCD |
-
+ 
+## Current Work
+ 
+**Research Assistant @ ZeMA GmbH** — Industrial cognitive assistance systems for assembly workstations.
+ 
+**M.Sc. Thesis** — Real-time hand detection for gripping area optimisation in industrial assembly, with CLAHE preprocessing under laser projection interference.
+ 
 ---
 
 ## Featured Projects
